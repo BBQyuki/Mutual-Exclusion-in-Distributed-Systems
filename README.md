@@ -1,5 +1,4 @@
-﻿Project 2: Verify and Performance Evaluation of Mutual Exclusive
-Services
+﻿Project 2: Verify and Performance Evaluation of Mutual Exclusive Services
 
 **Team Member**: Xin Tong/Yifan Xu/ Longhao Gao
 
@@ -115,30 +114,6 @@ All the nodes full-mesh connected:
   node number   dc01   dc02   dc03   dc04   dc05   dc06   dc07   dc08   dc09   dc10
   port number   5040   5041   5042   5043   5043   5043   5040   5041   5042   5043
   ------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
-
-<span id="h.drphgzbkbst4" class="anchor"><span id="_Toc457597506" class="anchor"></span></span>Operation System version:
-------------------------------------------------------------------------------------------------------------------------
-
-Ubuntu 16.04 LTS amd64
-
-<span id="h.ve2n174gxwei" class="anchor"><span id="_Toc457597507" class="anchor"></span></span>Memory:
-------------------------------------------------------------------------------------------------------
-
-> RES -- Resident size (kb): 37024
->
-> Memory usage by the application is recorded using command line **top**
-> on dc01.utdallas.edu.
->
-> PID USER PR NI VIRT RES SHR S %CPU %MEM TIME+ COMMAND
->
-> 27421 lxg1515+ 20 0 2509412 37024 12152 S 2.0 3.6 0:00.65 java
-
-<span id="h.1jyzfkue9hlv" class="anchor"><span id="_Toc457597508" class="anchor"></span></span>Compiler:
---------------------------------------------------------------------------------------------------------
-
-> openjdk version “1.8.0\_91”
->
-> java-8-openjdk-amd64
 
 <span id="h.b3encpvl8dvz" class="anchor"><span id="_Toc457597509" class="anchor"></span></span>Host application:
 ----------------------------------------------------------------------------------------------------------------
