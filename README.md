@@ -1,6 +1,6 @@
 **Team Member**: Xin Tong/Yifan Xu/ Longhao Gao
 
-<span id="h.vnwy1o4fnlvh" class="anchor"><span id="_Toc457597499" class="anchor"></span></span>What is it?:
+<span id="h.vnwy1o4fnlvh" class="anchor"><span id="_Toc457597499" class="anchor"></span></span>What is it?
 ==================================================================================================================
 
 Implementation of three different distributed mutual exclusion protocol, which are Lamport and Roucairol & Carvalho’s and Ricart-Agrawala's.
