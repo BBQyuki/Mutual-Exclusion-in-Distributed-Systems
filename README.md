@@ -3,7 +3,7 @@
 <span id="h.vnwy1o4fnlvh" class="anchor"><span id="_Toc457597499" class="anchor"></span></span>What is it?
 ==================================================================================================================
 
-Implementation of three different distributed mutual exclusion protocol, which are Lamport and Roucairol & Carvalho’s and Ricart-Agrawala's.
+Implementation of three different distributed mutual exclusion protocols, which are Lamport and Roucairol & Carvalho’s and Ricart-Agrawala's.
 
 Also implemented automatic correctness verification and performance evaluation.
 
